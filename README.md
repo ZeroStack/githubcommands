@@ -1,1 +1,1 @@
-go here [https://github.com/ZeroStack/githubcommands/blob/master/document.md]
+Please go [here](https://github.com/ZeroStack/githubcommands/blob/master/document.md)
